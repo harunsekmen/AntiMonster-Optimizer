@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 msgid "AntiMonster Optimizer"
-msgstr "AntiMonster İyileştirici"
+msgstr "AntiMonster Optimizer"
 
 msgid "Settings"
 msgstr "Ayarlar"
