@@ -1,50 +1,50 @@
 # AntiMonster Optimizer
 
-**Tame the WordPress Frankenstein!** 🧟‍♂️✂️
+**WordPress Frankenstein'ını Ehlileştirin!** 🧟‍♂️✂️
 
-AntiMonster Optimizer is a premium, lightweight, and powerful WordPress optimization plugin designed to slice off monstrous bloat and unused core features. Improve your site's performance, security, and cleanliness with just a few clicks.
+AntiMonster Optimizer; WordPress çekirdeğindeki gereksiz özellikleri ve ağırlıkları temizlemek için tasarlanmış, premium kalitede, hafif ve güçlü bir optimizasyon eklentisidir. Sadece birkaç tıklama ile sitenizin performansını, güvenliğini ve temizliğini artırın.
 
-## 🚀 Key Features
+## 🚀 Temel Özellikler
 
-- **Core Cleanup:** Disable Emojis, Embeds, Dashicons, and other unused WordPress assets.
-- **Header Optimization:** Remove WP Version, RSD links, Shortlinks, and REST API links to clean up your HTML `<head>`.
-- **WooCommerce Ready:** Specific optimizations to disable heavy scripts and widgets on non-eCommerce pages.
-- **Advanced Controls:** Limit post revisions, adjust autosave intervals, and manage the WordPress Heartbeat API.
-- **Security Enhancements:** Disable XML-RPC and REST API for non-admin users.
-- **Export/Import:** Easily move your optimization settings between sites with JSON.
-- **Multilingual:** Fully translated into **Turkish (Türkçe)** with standard WordPress translation support.
-- **Documentation Links:** Direct links to official WordPress documentation for every optimization setting.
+- **Çekirdek Temizliği:** Emojiler, Gömülü İçerikler (Embeds), Dashicons ve diğer kullanılmayan WordPress varlıklarını devre dışı bırakın.
+- **Header Optimizasyonu:** HTML `<head>` kısmını temizlemek için WP Sürümü, RSD bağlantıları, Kısa Bağlantılar ve REST API bağlantılarını kaldırın.
+- **WooCommerce Uyumu:** E-ticaret dışı sayfalarda ağır betikleri ve bileşenleri devre dışı bırakan özel optimizasyonlar.
+- **Gelişmiş Kontroller:** Yazı revizyonlarını sınırlayın, otomatik kaydetme aralıklarını ayarlayın ve WordPress Heartbeat API'sini yönetin.
+- **Güvenlik İyileştirmeleri:** Yönetici olmayan kullanıcılar için XML-RPC ve REST API'yi devre dışı bırakın.
+- **Dışa/İçe Aktar:** Optimizasyon ayarlarınızı JSON kullanarak siteler arasında kolayca taşıyın.
+- **Çok Dillilik:** Standart WordPress çeviri desteği ile tamamen **Türkçe**'ye çevrilmiştir.
+- **Dökümantasyon Bağlantıları:** Her optimizasyon ayarı için resmi WordPress dökümantasyonuna doğrudan bağlantılar.
 
-## 🛠 Installation
+## 🛠 Kurulum
 
-1. Download the latest release as a `.zip` file.
-2. Go to **Plugins > Add New** in your WordPress dashboard.
-3. Click **Upload Plugin** and select the `.zip` file.
-4. **Activate** the plugin.
-5. Navigate to **Settings > AntiMonster Optimizer** to start cleaning up your site.
+1. En son sürümü `.zip` dosyası olarak indirin.
+2. WordPress panelinizde **Eklentiler > Yeni Ekle** bölümüne gidin.
+3. **Eklenti Yükle**'ye tıklayın ve `.zip` dosyasını seçin.
+4. Eklentiyi **Etkinleştirin**.
+5. Sitenizi temizlemeye başlamak için **Ayarlar > AntiMonster Optimizer** menüsüne gidin.
 
-## 📖 Usage
+## 📖 Kullanım
 
-AntiMonster Optimizer is designed to be intuitive:
+AntiMonster Optimizer sezgisel olacak şekilde tasarlanmıştır:
 
-- **General:** Toggle core WordPress features.
-- **WooCommerce:** Optimize your online store's script loading.
-- **Tools:** Use the Export/Import functionality for bulk management.
+- **Genel:** Temel WordPress özelliklerini açıp kapatın.
+- **WooCommerce:** Çevrimiçi mağazanızın betik yüklemesini optimize edin.
+- **Araçlar:** Toplu yönetim için Dışa/İçe Aktarma işlevini kullanın.
 
-## 🛡 Security & Performance
+## 🛡 Güvenlik ve Performans
 
-This plugin is built with a "Performance First" mindset. It uses zero external dependencies and hooks into the native WordPress API to ensure maximum compatibility and minimum overhead.
+Bu eklenti "Önce Performans" anlayışıyla oluşturulmuştur. Maksimum uyumluluk ve minimum ek yük sağlamak için sıfır harici bağımlılık kullanır ve yerel WordPress API'sine bağlanır.
 
-## 📄 License
+## 📄 Lisans
 
-This project is licensed under the GPLv2 or later. See the [LICENSE](LICENSE) file for details.
+Bu proje GPLv2 veya sonraki sürümleri altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
 
-## 👤 Author
+## 👤 Yazar
 
 **Harun Sekmen**
-- Website: [harunsekmen.com](https://harunsekmen.com)
+- Web Sitesi: [harunsekmen.com](https://harunsekmen.com)
 - LinkedIn: [harunsekmen](https://www.linkedin.com/in/harunsekmen)
 
 ---
 
-*Handcrafted with ❤️ to kill the bloat.*
+*Gereksiz yüklerden kurtulmanız için ❤️ ile elde hazırlandı.*
