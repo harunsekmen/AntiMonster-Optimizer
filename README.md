@@ -2,6 +2,8 @@
 
 **WordPress Frankenstein'ını Ehlileştirin!** 🧟‍♂️✂️
 
+![AntiMonster Optimizer Screenshot](assets/screenshot.png)
+
 AntiMonster Optimizer; WordPress çekirdeğindeki gereksiz özellikleri ve ağırlıkları temizlemek için tasarlanmış, premium kalitede, hafif ve güçlü bir optimizasyon eklentisidir. Sadece birkaç tıklama ile sitenizin performansını, güvenliğini ve temizliğini artırın.
 
 ## 🚀 Temel Özellikler
