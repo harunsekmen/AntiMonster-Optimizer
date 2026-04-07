@@ -119,6 +119,38 @@ class AntiMonster_Optimizer_Engine {
 		add_action( 'admin_head', array( $this, 'add_blank_favicon' ) );
 	}
 
+	public function disable_xmlrpc() {
+		add_filter( 'xmlrpc_enabled', '__return_false' );
+	}
+
+	public function hide_wp_version() {
+		remove_action( 'wp_head', 'wp_generator' );
+		add_filter( 'the_generator', '__return_empty_string' );
+	}
+
+	public function remove_wlwmanifest_link() {
+		remove_action( 'wp_head', 'wlwmanifest_link' );
+	}
+
+	public function remove_rsd_link() {
+		remove_action( 'wp_head', 'rsd_link' );
+	}
+
+	public function remove_shortlink() {
+		remove_action( 'wp_head', 'wp_shortlink_wp_head', 10 );
+	}
+
+	public function remove_feed_links() {
+		remove_action( 'wp_head', 'feed_links', 2 );
+		remove_action( 'wp_head', 'feed_links_extra', 3 );
+	}
+
+	public function remove_rest_api_links() {
+		remove_action( 'wp_head', 'rest_output_link_wp_head', 10 );
+		remove_action( 'wp_head', 'wp_oembed_add_discovery_links', 10 );
+		remove_action( 'template_redirect', 'rest_output_link_header', 11 );
+	}
+
 	public function init_autosave_interval() {
 		if ( ! defined( 'AUTOSAVE_INTERVAL' ) ) {
 			define( 'AUTOSAVE_INTERVAL', (int) $this->options['autosave_interval'] );
