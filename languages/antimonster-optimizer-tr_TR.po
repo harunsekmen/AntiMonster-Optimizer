@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AntiMonster Optimizer 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/antimonster-optimizer\n"
+"POT-Creation-Date: 2024-04-07 14:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-04-07 14:00:00+00:00\n"
+"Last-Translator: Harun Sekmen\n"
+"Language-Team: Turkish <tr_TR@li.org>\n"
+"Language: tr_TR\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "AntiMonster Optimizer"
+msgstr "AntiMonster İyileştirici"
+
+msgid "Settings"
+msgstr "Ayarlar"
+
+msgid "v1.0.1 Premium"
+msgstr "v1.0.1 Premium"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "General Options"
+msgstr "Genel Seçenekler"
+
+msgid "Select which WordPress core performance options you would like to enable."
+msgstr "Hangi WordPress çekirdek performans seçeneklerini etkinleştirmek istediğinizi seçin."
+
+msgid "Disable Emojis"
+msgstr "Emojileri Devre Dışı Bırak"
+
+msgid "Removes WordPress Emojis JavaScript file and styles."
+msgstr "WordPress Emoji JavaScript dosyasını ve stillerini kaldırır."
+
+msgid "Disable Dashicons"
+msgstr "Dashicons'u Devre Dışı Bırak"
+
+msgid "Disables dashicons on the front end when not logged in."
+msgstr "Oturum açılmadığında ön yüzde dashicons ikonlarını devre dışı bırakır."
+
+msgid "Disable Embeds"
+msgstr "Gömülü İçerikleri (Embeds) Devre Dışı Bırak"
+
+msgid "Removes WordPress Embed JavaScript file (wp-embed.min.js)."
+msgstr "WordPress Embed JavaScript dosyasını (wp-embed.min.js) kaldırır."
+
+msgid "Disable XML-RPC"
+msgstr "XML-RPC'yi Devre Dışı Bırak"
+
+msgid "Disables WordPress XML-RPC functionality."
+msgstr "WordPress XML-RPC işlevselliğini devre dışı bırakır."
+
+msgid "Remove jQuery Migrate"
+msgstr "jQuery Migrate'i Kaldır"
+
+msgid "Removes jQuery Migrate JavaScript file (jquery-migrate.min.js)."
+msgstr "jQuery Migrate JavaScript dosyasını (jquery-migrate.min.js) kaldırır."
+
+msgid "Hide WP Version"
+msgstr "WP Sürümünü Gizle"
+
+msgid "Removes WordPress version meta tag."
+msgstr "WordPress sürüm meta etiketini kaldırır."
+
+msgid "Remove wlwmanifest Link"
+msgstr "wlwmanifest Bağlantısını Kaldır"
+
+msgid "Remove wlwmanifest (Windows Live Writer) link tag."
+msgstr "wlwmanifest (Windows Live Writer) bağlantı etiketini kaldır."
+
+msgid "Remove RSD Link"
+msgstr "RSD Bağlantısını Kaldır"
+
+msgid "Remove RSD (Real Simple Discovery) link tag."
+msgstr "RSD (Real Simple Discovery) bağlantı etiketini kaldır."
+
+msgid "Remove Shortlink"
+msgstr "Kısa Bağlantıyı Kaldır"
+
+msgid "Remove Shortlink link tag."
+msgstr "Kısa bağlantı (Shortlink) etiketini kaldır."
+
+msgid "Disable RSS Feeds"
+msgstr "RSS Akışlarını Devre Dışı Bırak"
+
+msgid "Disable WordPress generated RSS feeds."
+msgstr "WordPress tarafından oluşturulan RSS akışlarını devre dışı bırakır."
+
+msgid "Remove RSS Feed Links"
+msgstr "RSS Akış Bağlantılarını Kaldır"
+
+msgid "Disable WordPress generated RSS feed link tags from HTML head."
+msgstr "HTML head kısmındaki WordPress RSS akış bağlantı etiketlerini kaldırır."
+
+msgid "Disable Self Pingbacks"
+msgstr "Kendi Kendine Pingbackleri Devre Dışı Bırak"
+
+msgid "Disable Self Pingbacks (generated when linking to an article on your own blog)."
+msgstr "Kendi blogunuzdaki bir makaleye bağlantı verdiğinizde oluşan pingbackleri engeller."
+
+msgid "Disable REST API"
+msgstr "REST API'yi Devre Dışı Bırak"
+
+msgid "Disables REST API requests. Default (Enabled)"
+msgstr "REST API isteklerini devre dışı bırakır. Varsayılan (Etkin)"
+
+msgid "Default (Enabled)"
+msgstr "Varsayılan (Etkin)"
+
+msgid "Disable for Non-Admins"
+msgstr "Yönetici Olmayanlar İçin Devre Dışı Bırak"
+
+msgid "Disable When Logged Out"
+msgstr "Çıkış Yapıldığında Devre Dışı Bırak"
+
+msgid "Remove REST API Links"
+msgstr "REST API Bağlantılarını Kaldır"
+
+msgid "Removes REST API link tag from the front end."
+msgstr "Ön yüzdeki REST API bağlantı etiketini kaldırır."
+
+msgid "Disable Google Maps"
+msgstr "Google Haritaları Devre Dışı Bırak"
+
+msgid "Removes any instances of Google Maps API being loaded."
+msgstr "Google Maps API'nin yüklenmesini engeller."
+
+msgid "Disable Password Strength Meter"
+msgstr "Şifre Gücü Ölçeri Devre Dışı Bırak"
+
+msgid "Removes Password Strength Meter scripts from non essential pages."
+msgstr "Gerekli olmayan sayfalarda Şifre Gücü Ölçer betiklerini kaldırır."
+
+msgid "Disable Comments"
+msgstr "Yorumları Devre Dışı Bırak"
+
+msgid "Disables WordPress comments completely."
+msgstr "WordPress yorumlarını tamamen devre dışı bırakır."
+
+msgid "Remove Comment URLs"
+msgstr "Yorum URL'lerini Kaldır"
+
+msgid "Removes the WordPress comment author link and website field."
+msgstr "WordPress yorum yazar bağlantısını ve web sitesi alanını kaldırır."
+
+msgid "Add Blank Favicon"
+msgstr "Boş Favicon Ekle"
+
+msgid "Adds a blank favicon to prevent 404 errors on speed tests."
+msgstr "Hız testlerinde 404 hatalarını önlemek için boş bir favicon ekler."
+
+msgid "Remove Global Styles"
+msgstr "Küresel Stilleri Kaldır"
+
+msgid "Remove the inline global styles (CSS and SVG block library code)."
+msgstr "Satır içi küresel stilleri (CSS ve SVG blok kütüphanesi kodunu) kaldırır."
+
+msgid "Disable Heartbeat"
+msgstr "Heartbeat'i Devre Dışı Bırak"
+
+msgid "Disable WordPress Heartbeat everywhere or in certain areas."
+msgstr "WordPress Heartbeat'i her yerde veya belirli alanlarda devre dışı bırakır."
+
+msgid "Default"
+msgstr "Varsayılan"
+
+msgid "Disable Everywhere"
+msgstr "Her Yerde Devre Dışı Bırak"
+
+msgid "Only Allow When Editing Posts/Pages"
+msgstr "Sadece Yazı/Sayfa Düzenlerken İzin Ver"
+
+msgid "Heartbeat Frequency"
+msgstr "Heartbeat Sıklığı"
+
+msgid "Controls how often the WordPress Heartbeat API is allowed to run."
+msgstr "WordPress Heartbeat API'nin ne sıklıkla çalışmasına izin verileceğini kontrol eder."
+
+msgid "15 Seconds (Default)"
+msgstr "15 Saniye (Varsayılan)"
+
+msgid "30 Seconds"
+msgstr "30 Saniye"
+
+msgid "45 Seconds"
+msgstr "45 Saniye"
+
+msgid "60 Seconds"
+msgstr "60 Saniye"
+
+msgid "Limit Post Revisions"
+msgstr "Yazı Revizyonlarını Sınırla"
+
+msgid "Limits the maximum amount of revisions allowed."
+msgstr "İzin verilen maksimum revizyon miktarını sınırlar."
+
+msgid "Disable Post Revisions"
+msgstr "Yazı Revizyonlarını Devre Dışı Bırak"
+
+msgid "Autosave Interval"
+msgstr "Otomatik Kaydetme Aralığı"
+
+msgid "Controls how often WordPress will auto save."
+msgstr "WordPress'in ne sıklıkla otomatik kaydedeceğini kontrol eder."
+
+msgid "1 Minute (Default)"
+msgstr "1 Dakika (Varsayılan)"
+
+msgid "2 Minutes"
+msgstr "2 Dakika"
+
+msgid "3 Minutes"
+msgstr "3 Dakika"
+
+msgid "4 Minutes"
+msgstr "4 Dakika"
+
+msgid "5 Minutes"
+msgstr "5 Dakika"
+
+msgid "Disable specific elements of WooCommerce."
+msgstr "WooCommerce'in belirli öğelerini devre dışı bırakır."
+
+msgid "Disable Scripts"
+msgstr "Betikleri Devre Dışı Bırak"
+
+msgid "Disables WooCommerce scripts/styles except on product, cart, checkout."
+msgstr "Ürün, sepet, ödeme hariç WooCommerce betiklerini/stillerini devre dışı bırakır."
+
+msgid "Disable Cart Fragmentation"
+msgstr "Sepet Parçalanmasını (Cart Fragmentation) Devre Dışı Bırak"
+
+msgid "Completely disables WooCommerce cart fragmentation AJAX script."
+msgstr "WooCommerce sepet parçalanması (fragmentation) AJAX betiğini tamamen devre dışı bırakır."
+
+msgid "Disable Status Meta Box"
+msgstr "Durum Meta Kutusunu Devre Dışı Bırak"
+
+msgid "Disables WooCommerce status meta box from Dashboard."
+msgstr "Gösterge panelindeki WooCommerce durum meta kutusunu devre dışı bırakır."
+
+msgid "Disable Widgets"
+msgstr "Bileşenleri (Widgets) Devre Dışı Bırak"
+
+msgid "Disables all WooCommerce widgets from loading."
+msgstr "Tüm WooCommerce bileşenlerinin yüklenmesini engeller."
+
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+msgid "Export / Import Settings"
+msgstr "Ayarları Dışa/İçe Aktar"
+
+msgid "Export your current settings as JSON or import settings from another site."
+msgstr "Mevcut ayarlarınızı JSON olarak dışa aktarın veya başka bir siteden ayarları içe aktarın."
+
+msgid "Export Settings"
+msgstr "Ayarları Dışa Aktar"
+
+msgid "Copy this JSON data and save it to a secure location."
+msgstr "Bu JSON verisini kopyalayın ve güvenli bir konuma kaydedin."
+
+msgid "Import Settings"
+msgstr "Ayarları İçe Aktar"
+
+msgid "Paste your exported JSON data here and click Import."
+msgstr "Dışa aktardığınız JSON verisini buraya yapıştırın ve İçe Aktar'a tıklayın."
+
+msgid "Settings imported successfully!"
+msgstr "Ayarlar başarıyla içe aktarıldı!"
+
+msgid "Security check failed. Please try again."
+msgstr "Güvenlik kontrolü başarısız oldu. Lütfen tekrar deneyin."
+
+msgid "You do not have permission to import settings."
+msgstr "Ayarları içe aktarma izniniz yok."
+
+msgid "Invalid JSON data provided for import."
+msgstr "İçe aktarma için geçersiz JSON verisi sağlandı."
+
+msgid "Settings saved successfully!"
+msgstr "Ayarlar başarıyla kaydedildi!"
+
+msgid "No feed available, please visit the <a href=\"%s\">homepage</a>!"
+msgstr "Kullanılabilir akış yok, lütfen <a href=\"%s\">ana sayfayı</a> ziyaret edin!"
+
+msgid "REST API is disabled for non-admins."
+msgstr "REST API, yönetici olmayanlar için devre dışı bırakılmıştır."
+
+msgid "REST API is disabled for logged out users."
+msgstr "REST API, çıkış yapmış kullanıcılar için devre dışı bırakılmıştır."
