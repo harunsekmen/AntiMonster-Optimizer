@@ -1,0 +1,25 @@
+# AntiMonster Optimizer Git Ignore
+
+# WordPress
+wp-config.php
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/cache/
+wp-content/languages/plugins/*.mo
+wp-content/languages/plugins/*.po
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Local Dev
+.env
+*.log
